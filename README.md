@@ -30,36 +30,8 @@
         {repo}：ApacheCN 的 Github 仓库名称
 -->
 
-# {name}
+# GN2023
 
-> 原文：[{nameEn}]({urlEn})
-> 
-> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-> 
-> 阶段：机翻（1）
-> 
-> 敢于公开博弈，敢于激化矛盾，敢于同归于尽！
 
-* [在线阅读](https://{domain}.flygon.net)
+* [在线阅读](https://gn2023.flygon.net)
 
-## 下载
-
-### Docker
-
-```
-docker pull apachecn0/{dockerName}
-docker run -tid -p <port>:80 apachecn0/{dockerName}
-# 访问 http://localhost:{port} 查看文档
-```
-
-### NPM
-
-```
-npm install -g {npmName}
-{npmName} <port>
-# 访问 http://localhost:{port} 查看文档
-```
-
-## 赞助我
-
-![](https://img-blog.csdnimg.cn/20200112005920729.png)
